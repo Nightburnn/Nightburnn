@@ -2,6 +2,8 @@
 , I'm Nightburnn</h1>
 <img align="right" alt="Coding" width="300" height="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nightburnn&label=Profile%20views&color=0e75b6&style=flat" alt="nightburnn" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightburnn&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightburnn&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Nwabueze Franklin's github stats" /></p>
 
 
 
