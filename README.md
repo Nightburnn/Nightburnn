@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="300" height="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nightburnn&label=Profile%20views&color=0e75b6&style=flat" alt="nightburnn" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nightburnn&label=Profile%20views&color=0e75b6&style=flat" alt="nightburnn" /> </p>
 
 
 - 🔭 I’m currently working on **Backend Development**
