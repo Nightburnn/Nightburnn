@@ -2,13 +2,22 @@
 , I'm Nightburnn</h1>
 <img align="right" alt="Coding" width="300" height="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nightburnn&label=Profile%20views&color=0e75b6&style=flat" alt="nightburnn" /> </p>
-- 🔭 I’m currently working on **Backend development**
-- 🌱 I’m currently learning **Web development**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **Backend (C programming)**
-- 💬 Ask me about *Javascript :)**
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nightburnn&label=Profile%20views&color=0e75b6&style=flat" alt="nightburnn" /> </p>
+
+
+- 🔭 I’m currently working on **Backend Development**
+
+- 🌱 I’m currently learning **Mastering Web develpoment**
+
+- 👯 I’m looking to collaborate on **C Language**
+
+- 💬 Ask me about **HTML, C, Javascript, CSS**
+
+- ⚡ Fun fact **Most times only God can read my codes 😢...**
+
+</p>
+
 <!--
 **Nightburnn/Nightburnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
