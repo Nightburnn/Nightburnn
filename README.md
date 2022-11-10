@@ -5,6 +5,10 @@
 
 
 
+<a href="https://github.com/NwabuezeFranklin/github-readme-activity-graph"><img alt="Nightburnn' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nightburnn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Mastering Web develpoment**
