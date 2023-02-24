@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Mastering Web develpoment**
+- 🌱 I’m currently  **Mastering Web develpoment and application**
 
-- 👯 I’m looking to collaborate on **C Language**
+- 👯 I’m looking to collaborate on **Python, SQL, devops**
 
-- 💬 Ask me about **HTML, C, Javascript, CSS**
+- 💬 Ask me about **HTML, C, Javascript, CSS, MYSQL, PYTHON, DEVOPS**
 
-- ⚡ Fun fact **Most times only God can read my codes 😢...**
+- ⚡ **ALWAYS TAKE A WALK...**
 
 </p>
 
