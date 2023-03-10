@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML, C, Javascript, CSS, MYSQL, PYTHON, DEVOPS**
 
-- - 📫 How to reach me: [Email](Nightburn2003@gmail.com)
+- - 📫 How to reach me: Nightburn2003@gmail.com
 
 - ⚡ **ALWAYS TAKE A WALK...**
 
