@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=5002&pause=1000&color=F0F7F2&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nightburn)](https://git.io/typing-svg)
+<h1 align="center">
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=5002&pause=1000&color=F0F7F2&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nightburn)](https://git.io/typing-svg)
+ 
+</h1>
 
 <h3 align="center">A passionate Web developer and upcoming Solidity developer</h3>
 
